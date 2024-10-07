@@ -1,2 +1,2 @@
 # test
-cour ada
+cour ada entrainement 
